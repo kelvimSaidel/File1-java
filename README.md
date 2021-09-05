@@ -13,11 +13,6 @@ that item (unit price multiplied by quantity), according to example:.
 
 ![INTERFACE](https://github.com/kelvimSaidel/file1-java/blob/76c35c03341a366811a2093d00b45eabe8107450/src/assets/example.PNG)
 
-
-## Conceptual data model
-
-![CONCEPTUAL_DATA_MODEL](https://github.com/kelvimSaidel/polymorphism_inheritance/blob/a371115f082508b8c7c436a435d97106b3a33a8a/src/assets/Conceptual_data_model.PNG)
-
 ## Technologies used
 
 - Java
