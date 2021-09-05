@@ -11,7 +11,7 @@ that item (unit price multiplied by quantity), according to example:.
 
 ## Layout
 
-![INTERFACE](https://github.com/kelvimSaidel/polymorphism_inheritance/blob/9bd701499b58bc443371ed816684e18f8bcc7667/src/assets/polymorphism_inheritance.PNG)
+![INTERFACE](https://github.com/kelvimSaidel/file1-java/blob/76c35c03341a366811a2093d00b45eabe8107450/src/assets/example.PNG)
 
 
 ## Conceptual data model
@@ -28,10 +28,10 @@ Precondition: java 11
 
 ```bash
 #clone repository
-git clone https://github.com/kelvimSaidel/polymorphism_inheritance.git
+git clone https://github.com/kelvimSaidel/file1-java.git
 
 #enter in the  folder
-cd polymorphism_inheritance
+cd file1-java
 
 #enter in the  folder
 cd src
